@@ -1,0 +1,14 @@
+C:\Projetos\FizzBuzz\src\FizzBuzz.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Projetos\FizzBuzz\src\FizzBuzz.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Projetos\FizzBuzz\src\FizzBuzz.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Projetos\FizzBuzz\src\FizzBuzz.Tests\bin\Debug\netcoreapp2.0\FizzBuzz.Tests.deps.json
+C:\Projetos\FizzBuzz\src\FizzBuzz.Tests\bin\Debug\netcoreapp2.0\FizzBuzz.Tests.runtimeconfig.json
+C:\Projetos\FizzBuzz\src\FizzBuzz.Tests\bin\Debug\netcoreapp2.0\FizzBuzz.Tests.runtimeconfig.dev.json
+C:\Projetos\FizzBuzz\src\FizzBuzz.Tests\bin\Debug\netcoreapp2.0\FizzBuzz.Tests.dll
+C:\Projetos\FizzBuzz\src\FizzBuzz.Tests\bin\Debug\netcoreapp2.0\FizzBuzz.Tests.pdb
+C:\Projetos\FizzBuzz\src\FizzBuzz.Tests\bin\Debug\netcoreapp2.0\FizzBuzz.dll
+C:\Projetos\FizzBuzz\src\FizzBuzz.Tests\bin\Debug\netcoreapp2.0\FizzBuzz.pdb
+C:\Projetos\FizzBuzz\src\FizzBuzz.Tests\obj\Debug\netcoreapp2.0\FizzBuzz.Tests.fsprojResolveAssemblyReference.cache
+C:\Projetos\FizzBuzz\src\FizzBuzz.Tests\obj\Debug\netcoreapp2.0\FizzBuzz.Tests.fsproj.CoreCompileInputs.cache
+C:\Projetos\FizzBuzz\src\FizzBuzz.Tests\obj\Debug\netcoreapp2.0\FizzBuzz.Tests.dll
+C:\Projetos\FizzBuzz\src\FizzBuzz.Tests\obj\Debug\netcoreapp2.0\FizzBuzz.Tests.pdb

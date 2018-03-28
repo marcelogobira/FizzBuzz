@@ -1,0 +1,17 @@
+C:\Projetos\FizzBuzz\obj\Debug\netcoreapp2.0\FizzBuzz.fsprojResolveAssemblyReference.cache
+C:\Projetos\FizzBuzz\obj\Debug\netcoreapp2.0\FizzBuzz.fsproj.CoreCompileInputs.cache
+C:\Projetos\FizzBuzz\bin\Debug\netcoreapp2.0\FizzBuzz.deps.json
+C:\Projetos\FizzBuzz\bin\Debug\netcoreapp2.0\FizzBuzz.runtimeconfig.json
+C:\Projetos\FizzBuzz\bin\Debug\netcoreapp2.0\FizzBuzz.runtimeconfig.dev.json
+C:\Projetos\FizzBuzz\bin\Debug\netcoreapp2.0\FizzBuzz.dll
+C:\Projetos\FizzBuzz\bin\Debug\netcoreapp2.0\FizzBuzz.pdb
+C:\Projetos\FizzBuzz\obj\Debug\netcoreapp2.0\FizzBuzz.dll
+C:\Projetos\FizzBuzz\obj\Debug\netcoreapp2.0\FizzBuzz.pdb
+C:\Projetos\FizzBuzz\src\FizzBuzz\bin\Debug\netcoreapp2.0\FizzBuzz.deps.json
+C:\Projetos\FizzBuzz\src\FizzBuzz\bin\Debug\netcoreapp2.0\FizzBuzz.runtimeconfig.json
+C:\Projetos\FizzBuzz\src\FizzBuzz\bin\Debug\netcoreapp2.0\FizzBuzz.runtimeconfig.dev.json
+C:\Projetos\FizzBuzz\src\FizzBuzz\bin\Debug\netcoreapp2.0\FizzBuzz.dll
+C:\Projetos\FizzBuzz\src\FizzBuzz\bin\Debug\netcoreapp2.0\FizzBuzz.pdb
+C:\Projetos\FizzBuzz\src\FizzBuzz\obj\Debug\netcoreapp2.0\FizzBuzz.fsproj.CoreCompileInputs.cache
+C:\Projetos\FizzBuzz\src\FizzBuzz\obj\Debug\netcoreapp2.0\FizzBuzz.dll
+C:\Projetos\FizzBuzz\src\FizzBuzz\obj\Debug\netcoreapp2.0\FizzBuzz.pdb
